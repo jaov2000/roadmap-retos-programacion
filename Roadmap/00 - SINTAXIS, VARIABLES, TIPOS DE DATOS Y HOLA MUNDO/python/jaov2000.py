@@ -35,7 +35,7 @@ print(type(my_bool))
 print(type(my_str))
 
 #Hay formas mas directas para indicar el tipo de una variable, solo funciona para dar
-#No limita el cambio del tipo de variable mas adelante
+#informacion y no limita el cambio del tipo de variable mas adelante
 
 
 my_int: int = 5
